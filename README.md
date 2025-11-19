@@ -1,8 +1,2 @@
 ## Fall 2025 Data Science workspace.
-Use this repo for make your submissions.
-Make sure to create a directory name as follows (depending on what homework is due) and pleace all your code in there:
-
-- homework-1
-- homework-2
-..
-etc.
+These is a compilation of all the assignments that ive worked from Foundations of Data Science Fall 2025
